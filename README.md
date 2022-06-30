@@ -43,3 +43,17 @@
 <a href="https://github.com/rishiranjan-01/github-readme-activity-graph"><img alt="'s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rishiranjan-01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
+
+## Connect with me:
+
+<p align="left">
+
+<a href="https://linkedin.com/in/rishi-ranjan-8aa4b6149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-ranjan-8aa4b6149" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Rishi000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Rishi000/" height="30" width="40" /></a>
+<a href="https://medium.com/@rishibhumi000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishibhumi000" height="30" width="40" /></a>
+</p>
+
+
+
+
+

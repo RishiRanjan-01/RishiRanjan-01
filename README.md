@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
-- 👨‍💻 All of my projects are available at [https://roaring-salmiakki-7f18ce.netlify.app](https://roaring-salmiakki-7f18ce.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-8cz707pic-rishiranjan-01.vercel.app/](https://portfolio-8cz707pic-rishiranjan-01.vercel.app/)
 
 - 💬 Ask me about **any tech related stuff, I will be happy to help**
 

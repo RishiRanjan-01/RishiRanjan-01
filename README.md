@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-8cz707pic-rishiranjan-01.vercel.app/](https://portfolio-8cz707pic-rishiranjan-01.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rishiranjan-portfolio.vercel.app/](https://rishiranjan-portfolio.vercel.app/)
 
 - 💬 Ask me about **any tech related stuff, I will be happy to help**
 

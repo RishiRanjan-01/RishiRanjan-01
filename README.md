@@ -14,8 +14,9 @@
 - 💬 Ask me about **any tech related stuff, I will be happy to help**
 
 - 📫 How to reach me **rishibhumi000@gmail.com**
-
 <br>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RishiRanjan-01&label=Profile%20views&color=0e75b6&style=flat" alt="RishiRanjan-01" /> </p>
 <br>
 <h1 align="center"><i>Tech Stack:</i></h1>
 <hr>

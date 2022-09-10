@@ -1,11 +1,8 @@
 <img width="100%" height="200px"  src="https://c.tenor.com/tNYus4tK5dEAAAAC/anime-computer.gif">
 <h1 align="center">Hi 👋, I'm Rishi Ranjan</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India. A rigorous, task-driven professional with substantial experience in Software development, collaborative projects, and Team Work. Proficient in creating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India. A rigorous, task-driven professional with substantial experience in MERN Stack, collaborative projects, and Team Work. Proficient in creating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.</h3>
 <br>
 <img align="right" alt="Coding" height="250" width="400" src="https://tndigitalseva.in/assets/web/img/login-page.gif">
-- 🔭 I’m currently pursuing **Full Stack Web Development**
-
-- 🌱 I’m currently learning **Node, Express, MongoDB**
 
 - 👯 I’m looking to collaborate on **any awesome projects**
 

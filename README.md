@@ -173,9 +173,21 @@ Full-stack web platform focused on responsive UI, API development and cloud depl
 
 ## 📈 Contribution Graph
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishiRanjan-01&hide_border=true&theme=github-compact" />
+<a href="https://github.com/RishiRanjan-01">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RishiRanjan-01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+</a>
+
+<a href="https://github.com/RishiRanjan-01">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishiRanjan-01&layout=compact&hide_border=true&theme=transparent" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiRanjan-01&hide_border=true&theme=transparent" />
 
 </div>
 
